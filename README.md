@@ -1,5 +1,6 @@
 Hi 👋 My name is Vanillazi
-==========================* ✉️  You can contact me at [vanillazi@foxmail.com](mailto:vanillazi@foxmail.com)
+==========================* 
+✉️  You can contact me at [vanillazi@foxmail.com](mailto:vanillazi@foxmail.com)
 
 <a href="https://www.github.com/vanillazi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vanillazi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
